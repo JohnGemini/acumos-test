@@ -1,0 +1,8 @@
+flask
+h5py
+scipy
+pandas
+tensorflow
+gunicorn
+acumos==0.8.0
+dill==0.3.0
